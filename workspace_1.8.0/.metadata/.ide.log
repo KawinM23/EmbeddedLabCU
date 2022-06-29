@@ -36809,3 +36809,4 @@
 
 
 2022-06-29 18:21:48,688 [INFO] Activator:178 - !SESSION log4j initialized
+2022-06-29 18:22:02,733 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
